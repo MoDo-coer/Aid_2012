@@ -1,0 +1,6 @@
+print("都有")
+print("都有1")
+print("都有2")
+print("都有3")
+print("都有4")
+print("都有5")
